@@ -46,7 +46,16 @@ Frist of all, we have to install te git on your machine. If you are using some L
 
 ### Add, commit, push, pull and the basic workflow.
 
+We have few basic commands but they are all import 
 
+There a representation that we call ```Basic Git Workflow``` and inside it we have 4 stages that we call:
+
+* Working Directory
+* Staging Area
+* Repository
+* Remote
+
+Only the last is ```Remote```, the rest are ```Local```. That means that only the fourth depend upon the internet and who acess the ```github.com``` will see the last one.
 
 ## History and versions
 
