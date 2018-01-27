@@ -20,7 +20,9 @@ Learning Git, we will use it for share codes and controling versions of the code
 
 ### Installing the git
 
+Frist of all, we have to install te git on your machine. If you are using some Linux distribution, for example Ubuntu, you only have to type on your terminal:
 
+```sudo apt-get install git```
 
 ### Installing a text editor
 
