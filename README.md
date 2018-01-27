@@ -12,7 +12,7 @@ Why will we use it? Because it's free, usefull for share codes, simple and it ha
 
 ## Objective
 
-
+Learning Git, we will use it for share codes and controling versions of the codes
 
 ## Installing and configuring the necessary
 
