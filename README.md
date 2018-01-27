@@ -26,7 +26,21 @@ Frist of all, we have to install te git on your machine. If you are using some L
 
 ### Installing a text editor
 
+For editing our files, it is necessary a good text editor and the tools which are very usefull. Because most of the people of Droid-UnB know the Sublime. By that way, we are going to show how to install the sublime. If you are using another text editor like ```Notepad++```, ```TextMate 2```, ```Kate``` or ```Gedit```, maybe they are very good and usefull, however it is not guaranteed that texteditors works well with git.
 
+[The sublime website](https://www.sublimetext.com/)
+
+If you are using Ubuntu or Debian, you have just to type these 5 commands:
+
+```
+wget -qO - https://download.sublimetext.com/sublimehq-pub.gpg | sudo apt-key add -
+sudo apt-get install apt-transport-https
+echo "deb https://download.sublimetext.com/ apt/stable/" | sudo tee /etc/apt/sources.list.d/sublime-text.list
+sudo apt-get update
+sudo apt-get install sublime-text
+```
+
+These commands were gotten through this [link](https://www.sublimetext.com/docs/3/linux_repositories.html) on 27th jan 2018. If it's not working, follow the website instructions
 
 ### Visual Merge and Diff tool installation
 
