@@ -79,8 +79,17 @@ Only the last is ```Remote```, the rest are ```Local```. That means that only th
 
 ## Usefull links
 
+We have some usefull links that help us with a lot of things. Below are showen they funcionality.
 
+* [Sublime](https://www.sublimetext.com/) - The sublimetext's website
+* [P4Merge](https://www.perforce.com/products/helix-core-apps/merge-diff-tool-p4merge) - A good tool for merging
+* [Hipsum](https://hipsum.co/) - A website that give us some text.
+* [Meettheipsums](http://meettheipsums.com/) - If you understood the link below, there are a lot of websites with the same purpuse. Meet them through this link
+* [A good README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2) - This link show some readme simple examples 
+* [Mastering markdown](https://guides.github.com/features/mastering-markdown/) - If you wanna know more about markdown
 
 ## Credits
 
-
+Name | Email
+---- | -----
+Carlos Adir | carlos.adir.leite@gmail.com
