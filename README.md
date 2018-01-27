@@ -2,11 +2,13 @@
 
 ## Introduction
 
+The repository is only to learning git. By that way, all the files in this repository are examples.
+
 We have GitHub, it's a plataform about git. It doesn't matter understanding what is that if we have only to use. So, our objective is how to use git. By that way, always we say "learning git" that means the same of "learning how to use the git".
 
 The frist thing we have to know is some basics about git. All we need to know is that Git is like a Cloud. You can put in it your archives, texts, codes and whatever you want. Is there a limit to use git, like storage space? I don't know, but if you only put small and necessary archives, it will be almost unlimited.
 
-We will use the GitHub plataform. Where you can acess throught the link "https://github.com/" and doesn't need to pay to use it. You can pay for some advantages, but it's useless for our objective.
+We will use the GitHub plataform. Where you can acess throught the link ```https://github.com/``` and doesn't need to pay to use it. You can pay for some advantages, but it's useless for our objective.
 
 Why will we use it? Because it's free, usefull for share codes, simple and it has a powerfull version control system that we will learn further.
 
@@ -16,7 +18,13 @@ Learning Git, we will use it for share codes and controling versions of the code
 
 ## Installing and configuring the necessary
 
+To all the course, we are going to install 3 softwares:
 
+* The git
+* A text editor
+* A diff tool
+
+Their uses are shown below.
 
 ### Installing the git
 
@@ -40,11 +48,17 @@ sudo apt-get update
 sudo apt-get install sublime-text
 ```
 
+If you are using another Linux's distribution, see the link below.
+
 These commands were gotten through this [link](https://www.sublimetext.com/docs/3/linux_repositories.html) on 27th jan 2018. If it's not working, follow the website instructions
 
 ### Visual Merge and Diff tool installation
 
+For futher use, we have to install a difftool. The Difftool which we are going to use is the [P4Merge](https://www.perforce.com/products/helix-core-apps/merge-diff-tool-p4merge).
 
+To install the tool on Ubuntu, we are going to use the tutorial: [How to install P4merge on Ubuntu](http://blogs.pdmlab.com/alexander.zeitler/articles/installing-and-configuring-p4merge-for-git-on-ubuntu/)
+
+Frist of all, download the file selecting your computer configurations through the link: [Visual merge tool - Downloads](https://www.perforce.com/downloads/visual-merge-tool).
 
 ## The basic
 
