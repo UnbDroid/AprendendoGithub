@@ -3,3 +3,5 @@
 # Allow crawling of all content
 User-agent: *
 Disallow:
+
+Colocando uma pequena modificacao
